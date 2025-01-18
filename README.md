@@ -22,8 +22,14 @@ ssh-keygen
 cd # переход к папке
 ls # просмотр каталога
 ```
+Ctrl + C выход из запущенного процесса в терминал
+
 # Работа с репозиторием
 ```sh
 git clone git@github.com:Artem221084/demo.git # клонирование репозитория с https://github.com/Artem221084/demo
 ```
-
+# работа с python  
+установка зависимостей 
+```sh
+python -m pip install requests
+```
