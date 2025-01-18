@@ -1,6 +1,15 @@
 # Работа с GIT
 Установить GIT (для хранения кода в репозиториях)
+```sh 
+# глобальная настройка GIT
+git config --global user.name Artem 
+git config --global user.email artem221084@mail.ru 
 
+# работа с git
+git commit -am "Upd"
+gtt push
+```
+использовать .gitignore  чтобы исключить загрузку ненужных файлов в репозиторий
 # Работа с SSH 
 сгенерировать ключ
 ```sh
