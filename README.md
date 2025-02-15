@@ -33,3 +33,14 @@ git clone git@github.com:Artem221084/demo.git # клонирование реп�
 ```sh
 python -m pip install requests
 ```
+
+
+
+# My data science projects
+From the [skillfactory Data Science] (https://skillfactory.ru/data-scientist)
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число] (D:\dev\demo\project_0\game.py)
+* [Проект 1. _________] (_________)
+* [Проект 2. _________] (_________)
